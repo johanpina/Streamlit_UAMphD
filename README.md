@@ -38,7 +38,10 @@ Recuerda que debes cambiar en el archivo `pages/5_media_help.py` el valor del **
 
 [enlace aqui](https://www.youtube.com/watch?v=Wkyc9U6_PyY)
 
-### Espero sea de utilidad 🤓
+## NO Olviden explorar los assistants (GPT's de openAI) 
+Para esto si deben ser usurios PRO en chatgpt 😔 pero si es algo que van a usar recurrentemente vale la pena por completo 🤩🧠🔝
+
+## Espero les sea de utilidad 🤓
 
 **Exitos!**
 
