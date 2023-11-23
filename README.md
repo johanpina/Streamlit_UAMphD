@@ -34,6 +34,9 @@ Este repositorio contiene la sesión de Streamlit del curso Deep Learning avanza
 
 Recuerda que debes cambiar en el archivo `pages/5_media_help.py` el valor del **API_KEY** de open ai que debes generar en https://platform.openai.com/api-keys.
 
+## Subir el repositorio a Streamlit para publicar la página
+
+[enlace aqui](https://www.youtube.com/watch?v=Wkyc9U6_PyY)
 
 ### Espero sea de utilidad 🤓
 
